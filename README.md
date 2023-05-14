@@ -1,2 +1,2 @@
-# conding_blocks
+# coding_blocks
 Coding blocks assignment solutions
