@@ -1,2 +1,2 @@
-# assignment_2
-Coding blocks assignment2 solutions
+# conding_blocks
+Coding blocks assignment solutions
